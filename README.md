@@ -1,4 +1,4 @@
-#📖 Project Gutenberg - Word Frequency Analyzer
+# Project Gutenberg -📖 Word Frequency Analyzer
 
 A Python-based tool that retrieves books from Project Gutenberg, analyzes word frequency, and stores the results in an SQLite database. Features a Tkinter GUI for easy search and visualization.
 🚀 Features
